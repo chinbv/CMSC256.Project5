@@ -1,0 +1,172 @@
+true
+    =
++= 
+	-= 
+
+	*= 
+
+	/= 
+
+	&= 
+
+	|= 
+
+	^= 
+
+	%= 
+
+	<<= 
+
+	>>= 
+
+	>>>= 
+
+this
+
+	|| 
+
+	&& 
+
+	| 
+
+	^ 
+
+	& 
+
+	== 
+
+	!= 
+
+	< 
+
+	> 
+
+	<= 
+
+void
+
+	>= 
+
+	<< 
+
+	>> 
+
+	>>> 
+
+	+ 
+
+	- 
+
+	* 
+
+	/ 
+
+	% 
+
+false
+
+	byte 
+
+	short 
+
+	char 
+
+	int 
+
+	long 
+
+	float 
+
+	double 
+
+	boolean
+
+enum
+
+	if 
+
+else
+
+	for 
+
+	while 
+
+	do 
+
+while 
+
+	try 
+
+catch
+
+finally
+
+	switch 
+
+case
+
+	synchronized 
+
+	return 
+
+	throw
+
+throws
+
+default 
+
+	break
+
+	continue 
+
+const
+
+	assert
+
+public 
+
+	protected 
+
+	private 
+
+	static 
+
+	abstract 
+
+	final 
+
+	native 
+
+	synchronized 
+
+	transient 
+
+	volatile
+
+	strictfp
+
+	import 
+
+	class 
+
+extends 
+
+implements 
+
+	interface 
+
+goto
+
+instanceof
+
+native
+
+new
+
+null
+
+package
+
+super
+
+transient
